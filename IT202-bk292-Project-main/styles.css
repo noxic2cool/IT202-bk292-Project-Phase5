@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Futura', sans-serif;
+    color: white;
+    background-color: rgb(65, 100, 255);
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Futura', sans-serif;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.mid {
+    text-align: center;
+}
+
+a {
+    font-family: 'Helvetica', sans-serif;
+}
+
+li {
+    font-family: 'Helvetica', sans-serif; 
+}
+
+label {
+    font-family: 'Helvetica', sans-serif;
+}
+
+/*  
+    Blade Kirksey
+    Feb. 16, 2024
+    IT 202 (Spring 2024)
+    Project 1
+*/
